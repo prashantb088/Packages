@@ -4,11 +4,11 @@
 */
 
 
-package com.bankServices;
+package ps.prashant;
 
 import java.util.Scanner;
 
-import com.bankServices.*;
+import prashant.*;
 
 public class bankAccount {
 
