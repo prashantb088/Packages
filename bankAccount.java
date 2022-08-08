@@ -1,3 +1,9 @@
+/*
+	Program to create an package of customer class with bankServices methods
+	by Prashant Bansal
+*/
+
+
 package com.bankServices;
 
 import java.util.Scanner;
