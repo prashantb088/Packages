@@ -4,7 +4,7 @@
 */
 
 
-package com.bankServices;
+package ps.prashant;
 
 class customer {
 
