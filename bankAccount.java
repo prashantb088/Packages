@@ -8,7 +8,7 @@ package ps.prashant;
 
 import java.util.Scanner;
 
-import prashant.*;
+import ps.prashant.*;
 
 public class bankAccount {
 
