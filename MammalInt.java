@@ -1,5 +1,5 @@
 /*
-	Program to create an package of examole of an animal
+	Program to create an package by an example of an animal
 	by Prashant Bansal
 */
 
