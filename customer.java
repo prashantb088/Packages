@@ -1,3 +1,9 @@
+/*
+	Program to create customer bank account and get customer details
+	by Prashant Bansal
+*/
+
+
 package com.bankServices;
 
 class customer {
